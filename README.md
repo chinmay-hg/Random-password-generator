@@ -1,9 +1,6 @@
 # Random-password-generator
 To create a password generator app in C.
-C Code Implementation:
-
-
-
+C Code Implementation
 
 
 
